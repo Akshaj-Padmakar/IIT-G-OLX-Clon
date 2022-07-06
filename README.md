@@ -15,4 +15,4 @@
     - FrontEnd :   `nodemon start`    
     - BackEnd  :   `nodemon start`
 
-** [Hosted Site](https://olx-clone-iitg.netlify.app)**
+* [Hosted Site](https://olx-clone-iitg.netlify.app) *
