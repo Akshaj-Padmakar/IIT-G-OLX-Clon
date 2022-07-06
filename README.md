@@ -14,3 +14,5 @@
 * Start the backend and frontend using `nodemon` package (This reloads the app whenever it detects a change).
     - FrontEnd :   `nodemon start`    
     - BackEnd  :   `nodemon start`
+
+** [Hosted Site](https://olx-clone-iitg.netlify.app)**
