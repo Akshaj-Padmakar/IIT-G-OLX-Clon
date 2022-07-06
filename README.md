@@ -16,3 +16,7 @@
     - BackEnd  :   `nodemon start`
 
 * [Hosted Site](https://olx-clone-iitg.netlify.app) *
+
+* Contributors : 
+    - [Shohan Mandal](https://github.com/shohan2001)
+    - [Akshaj Padmakar](https://github.com/https://github.com/Akshaj-Padmakar)
